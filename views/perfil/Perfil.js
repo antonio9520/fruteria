@@ -14,7 +14,7 @@ import telperf from '../../resources/imghompro/Register-Icon-Phone.png';
 import passperf from '../../resources/imghompro/Register-Icon-Password.png';
 import dirperf from '../../resources/imghompro/Register-Icon-Address.png';
 import ajusperf from '../../resources/imghompro/Icon-Config.png';
-import logo from '../../resources/logotipo.png';
+import logo from '../../resources/Logotype-AppMe-Original-App.png';
 
 import {ScrollView} from 'react-native-gesture-handler';
 

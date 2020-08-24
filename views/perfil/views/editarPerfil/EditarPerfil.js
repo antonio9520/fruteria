@@ -11,7 +11,7 @@ import telperf from '../../../../resources/imghompro/Register-Icon-Phone.png';
 import passperf from '../../../../resources/imghompro/Register-Icon-Password.png';
 import iconubi from '../../../../resources/imghompro/Register-Icon-Address.png';
 import userperf from '../../../../resources/imghompro/Register-Icon-Name.png';
-import logo from '../../../../resources/logotipo.png';
+import logo from '../../../../resources/Logotype-AppMe-Original-App.png';
 import {ScrollView} from 'react-native-gesture-handler';
 
 const EditarPerfil = (props) => {
@@ -85,7 +85,8 @@ const EditarPerfil = (props) => {
           <TouchableHighlight
             style={styles.btnSeguir}
             underlayColor="#F3F306"
-            onPress={this.singUpUser}>
+            // onPress={this.singUpUser}>
+          >
             <Text style={styles.textbutton}>Guardar</Text>
           </TouchableHighlight>
         </View>

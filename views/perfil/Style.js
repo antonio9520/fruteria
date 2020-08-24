@@ -130,7 +130,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     width: 150,
     height: 150,
-    top: -45,
+
     elevation: 8,
   },
   botoncamara: {
@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
     marginLeft: 215,
     width: 45,
     height: 45,
-    top: -85,
+    top: -45,
     elevation: 10,
   },
   txtnombreprofile: {
@@ -157,7 +157,6 @@ const styles = StyleSheet.create({
     marginBottom: 40,
   },
   viewprofilepedidos: {
-    top: -70,
     backgroundColor: 'white',
     elevation: 5,
     borderTopLeftRadius: 20,
@@ -219,7 +218,7 @@ const styles = StyleSheet.create({
     fontWeight: '600',
     marginTop: -37,
     marginLeft: 20,
-    color: '#B5BECE',
+    color: '#40A336',
     fontWeight: 'bold',
   },
   textpedidosperfil1: {
@@ -227,7 +226,7 @@ const styles = StyleSheet.create({
     fontWeight: '600',
     marginTop: -37,
     marginLeft: 35,
-    color: '#B5BECE',
+    color: '#40A336',
     fontWeight: 'bold',
   },
   box10: {
@@ -254,13 +253,13 @@ const styles = StyleSheet.create({
     left: 4,
   },
   numeroperfil: {
-    color: '#23B1F1',
+    color: '#40A336',
     fontWeight: 'bold',
     fontSize: 24,
     marginLeft: 57,
   },
   numeroperfil1: {
-    color: '#23B1F1',
+    color: '#40A336',
     fontWeight: 'bold',
     fontSize: 24,
     marginLeft: 62,
@@ -329,7 +328,7 @@ const styles = StyleSheet.create({
   },
   btnSeguir: {
     marginTop: 10,
-    backgroundColor: '#1580F7',
+    backgroundColor: '#40A336',
     height: 45,
     width: 300,
     alignSelf: 'center',
@@ -573,14 +572,13 @@ const styles = StyleSheet.create({
     borderBottomRightRadius: 9,
   },
   txtperfil: {
-    color: '#1DAFF1',
+    color: '#40A336',
     fontWeight: 'bold',
     fontSize: 28,
     left: 30,
-    top: -40,
   },
   logo: {
-    height: 50,
+    height: 70,
     width: 150,
     alignSelf: 'center',
     bottom: 38,
@@ -591,22 +589,20 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     fontWeight: 'bold',
     color: '#66656B',
-    bottom: 80,
   },
   txtdireccion1: {
     fontSize: 12,
     textAlign: 'center',
-    bottom: 80,
+
     color: '#B1B1B1',
     fontWeight: 'bold',
   },
   viewinfousuario: {
     width: 330,
     height: 210,
-
+    marginTop: 20,
     alignSelf: 'center',
     borderRadius: 10,
-    top: -45,
   },
   txtinfousuario: {
     fontSize: 14,
